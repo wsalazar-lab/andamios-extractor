@@ -1,0 +1,13 @@
+# Entorno virtual
+outlookenv/
+
+# Archivos de entorno / credenciales
+.env
+
+# Archivos de salida
+output/*.csv
+
+# Archivos del sistema
+.DS_Store
+__pycache__/
+*.pyc

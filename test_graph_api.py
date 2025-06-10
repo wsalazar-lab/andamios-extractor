@@ -2,9 +2,9 @@ import msal
 import requests
 
 # Parámetros (del .env o escribirlos directamente aquí para test rápido)
-CLIENT_ID = "62954eb2-f9ed-42c4-aee5-6ff29f1a9c58"
-CLIENT_SECRET = "SUM8Q~4LOG6J0Pdr4YFTAG1tCwaCWUzGQsIQ6adl"
-TENANT_ID = "a641728b-072f-4a25-9628-dd382de84f56"
+CLIENT_ID = "82e4be25-b440-4799-a578-c42d5621ff56"
+CLIENT_SECRET = "wXX8Q~SfESn6ME.T6Vu~MaT09dghNLMaBBuBccm_"
+TENANT_ID = "62954eb2-f9ed-42c4-aee5-6ff29f1a9c58"
 CORREO_OBJETIVO = "sinatra@armatec.cl"
 
 # Autenticación
